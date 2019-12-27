@@ -7,10 +7,10 @@ The webapp runs on [Express - Node.js](https://expressjs.com/).
 ### Software Requirements
 
 The program requires recent versions of:
-    * [Rustup](https://rustup.rs)
-    * [Wasm Pack](https://rustwasm.github.io/wasm-pack/)
-    * [Node.js](https://nodejs.org) 
-    * [Elm Compiler](https://github.com/elm/compiler)
+* [Rustup](https://rustup.rs)
+* [Wasm Pack](https://rustwasm.github.io/wasm-pack/)
+* [Node.js](https://nodejs.org) 
+* [Elm Compiler](https://github.com/elm/compiler)
 
 ### Install & Run
 
