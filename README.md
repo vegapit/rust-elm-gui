@@ -17,11 +17,17 @@ The program requires recent versions of:
 To run the example on your local machine, run from your terminal:
 
 `git clone https://github.com/vegapit/rust-elm-gui.git`
+
 `cd rust-elm-gui`
+
 `wasm-pack build --release --target nodejs`
+
 `cd www`
+
 `npm install`
+
 `elm make elm/Index.elm --output=public/js/index.js`
+
 `node main.js`
 
 Open your browser to [http://localhost:8080/](http://localhost:8080/) to see it in action
