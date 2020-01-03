@@ -1,6 +1,6 @@
 ## Rust/Elm Webapp
 
-This example is part of a tutorial showing how to create a highly interactive web page with [Elm](https://elm-lang.org) which uses [Rust](https://rust-lang.org) functions exported through [WebAssembly](https://webassembly.org).
+This example is part of a [tutorial](http:/www.vegapit.com/article/interfacing-elm-with-rust-webassembly) showing how to create a highly interactive web page with [Elm](https://elm-lang.org) which uses [Rust](https://rust-lang.org) functions exported through [WebAssembly](https://webassembly.org).
 
 The webapp runs on [Express - Node.js](https://expressjs.com/).
 
